@@ -24,7 +24,7 @@ article, aside, details, figcaption, figure, footer, header, menu, nav, section 
 }
 
 html{
-  font-family: "Helvetica","Roboto","Arial", "游ゴシック体", "Yu Gothic", YuGothic, "ヒラギノ角ゴシック Pro", "Hiragino Kaku Gothic Pro", 'メイリオ' , Meiryo, sans-serif;
+  font-family: "Helvetica Neue","Helvetica","Roboto","Arial", "游ゴシック体", "Yu Gothic", YuGothic, "ヒラギノ角ゴシック Pro", "Hiragino Kaku Gothic Pro", 'メイリオ' , Meiryo, sans-serif;
   font-size: 62.5%;
 }
 body { font-size: 10px; font-size: 1.0rem; }
