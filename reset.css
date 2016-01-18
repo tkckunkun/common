@@ -24,7 +24,6 @@ article, aside, details, figcaption, figure, footer, header, menu, nav, section 
 }
 
 html{
-  overflow-y: scroll;
   font-family: 'Lucida Grande', "游ゴシック体", "Yu Gothic", YuGothic, "ヒラギノ角ゴシック Pro", "Hiragino Kaku Gothic Pro", 'メイリオ' , Meiryo , Osaka, "MS Pゴシック", "MS PGothic", sans-serif;
   font-size: 62.5%;
 }
