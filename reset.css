@@ -22,13 +22,14 @@ time, mark, audio, video {
 article, aside, details, figcaption, figure, footer, header, menu, nav, section {
   display: block;
 }
-
+*, *:before, *:after {
+  box-sizing: border-box;
+}
 html{
   font-family: "Helvetica Neue","Helvetica","Roboto","Arial", "游ゴシック体", "Yu Gothic", YuGothic, "ヒラギノ角ゴシック Pro", "Hiragino Kaku Gothic Pro", 'メイリオ' , Meiryo, sans-serif;
   font-size: 62.5%;
-  box-sizing: border-box; 
 }
-body { font-size: 10px; font-size: 1.0rem; box-sizing: border-box; }
+body { font-size: 10px; font-size: 1.0rem; }
 blockquote, q {
   quotes: none;
 }
